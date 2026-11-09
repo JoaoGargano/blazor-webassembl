@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida em **Blazor WebAssembly (WASM)** (.NET 10+) para listar e buscar personagens do universo de **Demon Slayer (Kimetsu no Yaiba)** consumindo a API pública [Demon Slayer API](https://www.demonslayer-api.com/documentation).
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como atividade prática da disciplina de **Usabilidade, Desenvolvimento Web, Mobile e Jogos** (**Lista 24 - BlazorWebAssembly**).
 
@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Usabili
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 1. **Listagem Paginada de Personagens:**
    - Carrega inicialmente a página 1 da API com botões de navegação (**Anterior** e **Próxima**).
@@ -38,7 +38,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Usabili
 
 ---
 
-## 💻 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -65,7 +65,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Usabili
 
 ---
 
-## 🌐 Endpoints da API Utilizados
+## Endpoints da API Utilizados
 
 - **Listagem Paginada:**
   - `GET https://www.demonslayer-api.com/api/v1/characters?page=1`
@@ -92,7 +92,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Usabili
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **C#** / **.NET 10**
 - **Blazor WebAssembly (Standalone App)**
